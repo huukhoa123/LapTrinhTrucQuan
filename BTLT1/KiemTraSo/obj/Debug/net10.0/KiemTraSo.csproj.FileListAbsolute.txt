@@ -1,0 +1,14 @@
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\bin\Debug\net10.0\KiemTraSo.exe
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\bin\Debug\net10.0\KiemTraSo.deps.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\bin\Debug\net10.0\KiemTraSo.runtimeconfig.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\bin\Debug\net10.0\KiemTraSo.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\bin\Debug\net10.0\KiemTraSo.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\obj\Debug\net10.0\KiemTraSo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\obj\Debug\net10.0\KiemTraSo.AssemblyInfoInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\obj\Debug\net10.0\KiemTraSo.AssemblyInfo.cs
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\obj\Debug\net10.0\KiemTraSo.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\obj\Debug\net10.0\KiemTraSo.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\obj\Debug\net10.0\refint\KiemTraSo.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\obj\Debug\net10.0\KiemTraSo.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\obj\Debug\net10.0\KiemTraSo.genruntimeconfig.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\KiemTraSo\obj\Debug\net10.0\ref\KiemTraSo.dll

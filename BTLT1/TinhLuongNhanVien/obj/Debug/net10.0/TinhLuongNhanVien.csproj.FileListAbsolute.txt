@@ -1,0 +1,14 @@
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.exe
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.deps.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.runtimeconfig.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.AssemblyInfoInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.AssemblyInfo.cs
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\obj\Debug\net10.0\refint\TinhLuongNhanVien.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.genruntimeconfig.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\TinhLuongNhanVien\obj\Debug\net10.0\ref\TinhLuongNhanVien.dll

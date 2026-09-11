@@ -1,0 +1,14 @@
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\obj\Debug\net10.0\SimulateATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\obj\Debug\net10.0\SimulateATM.AssemblyInfoInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\obj\Debug\net10.0\SimulateATM.AssemblyInfo.cs
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\obj\Debug\net10.0\SimulateATM.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\bin\Debug\net10.0\SimulateATM.exe
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\bin\Debug\net10.0\SimulateATM.deps.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\bin\Debug\net10.0\SimulateATM.runtimeconfig.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\bin\Debug\net10.0\SimulateATM.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\bin\Debug\net10.0\SimulateATM.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\obj\Debug\net10.0\SimulateATM.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\obj\Debug\net10.0\refint\SimulateATM.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\obj\Debug\net10.0\SimulateATM.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\obj\Debug\net10.0\SimulateATM.genruntimeconfig.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\SimulateATM\obj\Debug\net10.0\ref\SimulateATM.dll

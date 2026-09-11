@@ -1,0 +1,4 @@
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\obj\Release\net10.0\XepLoaiHocSinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\obj\Release\net10.0\XepLoaiHocSinh.AssemblyInfoInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\obj\Release\net10.0\XepLoaiHocSinh.AssemblyInfo.cs
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\obj\Release\net10.0\XepLoaiHocSinh.csproj.CoreCompileInputs.cache

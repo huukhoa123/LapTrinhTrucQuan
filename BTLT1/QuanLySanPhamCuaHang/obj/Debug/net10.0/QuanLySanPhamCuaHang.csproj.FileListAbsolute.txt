@@ -1,0 +1,14 @@
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.exe
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.deps.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.runtimeconfig.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\bin\Debug\net10.0\QuanLySanPhamCuaHang.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.AssemblyInfoInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.AssemblyInfo.cs
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\obj\Debug\net10.0\refint\QuanLySanPhamCuaHang.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\obj\Debug\net10.0\QuanLySanPhamCuaHang.genruntimeconfig.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\QuanLySanPhamCuaHang\obj\Debug\net10.0\ref\QuanLySanPhamCuaHang.dll

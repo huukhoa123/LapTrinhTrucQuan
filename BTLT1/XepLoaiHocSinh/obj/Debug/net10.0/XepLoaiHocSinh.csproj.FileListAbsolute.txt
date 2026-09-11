@@ -1,0 +1,14 @@
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\bin\Debug\net10.0\XepLoaiHocSinh.exe
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\bin\Debug\net10.0\XepLoaiHocSinh.deps.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\bin\Debug\net10.0\XepLoaiHocSinh.runtimeconfig.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\bin\Debug\net10.0\XepLoaiHocSinh.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\bin\Debug\net10.0\XepLoaiHocSinh.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.AssemblyInfoInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.AssemblyInfo.cs
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\obj\Debug\net10.0\refint\XepLoaiHocSinh.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\obj\Debug\net10.0\XepLoaiHocSinh.genruntimeconfig.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\XepLoaiHocSinh\obj\Debug\net10.0\ref\XepLoaiHocSinh.dll

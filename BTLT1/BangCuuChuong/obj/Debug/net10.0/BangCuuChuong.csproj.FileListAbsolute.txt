@@ -1,0 +1,14 @@
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.exe
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.deps.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.runtimeconfig.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.AssemblyInfoInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.AssemblyInfo.cs
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\refint\BangCuuChuong.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.genruntimeconfig.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\ref\BangCuuChuong.dll

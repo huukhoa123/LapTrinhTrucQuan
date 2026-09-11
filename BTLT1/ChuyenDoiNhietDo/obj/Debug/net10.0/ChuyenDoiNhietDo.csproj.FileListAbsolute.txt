@@ -1,0 +1,14 @@
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.AssemblyInfoInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.AssemblyInfo.cs
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.exe
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.deps.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.runtimeconfig.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\refint\ChuyenDoiNhietDo.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.genruntimeconfig.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ref\ChuyenDoiNhietDo.dll

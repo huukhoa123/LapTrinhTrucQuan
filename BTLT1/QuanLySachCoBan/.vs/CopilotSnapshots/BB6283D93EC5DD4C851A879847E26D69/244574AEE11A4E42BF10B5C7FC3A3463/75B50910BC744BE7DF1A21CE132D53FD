@@ -1,0 +1,15 @@
+﻿using System;
+
+class sach
+{
+    private struct sach
+    {
+        string _maSach;
+       string _tenSach;
+       string _tacGia;
+       int _namXuatBan;
+
+       int _giaBan;
+            
+    }
+}

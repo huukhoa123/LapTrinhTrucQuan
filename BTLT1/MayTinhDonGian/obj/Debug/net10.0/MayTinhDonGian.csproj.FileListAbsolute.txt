@@ -1,0 +1,14 @@
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\bin\Debug\net10.0\MayTinhDonGian.exe
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\bin\Debug\net10.0\MayTinhDonGian.deps.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\bin\Debug\net10.0\MayTinhDonGian.runtimeconfig.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\bin\Debug\net10.0\MayTinhDonGian.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\bin\Debug\net10.0\MayTinhDonGian.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.AssemblyInfoInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.AssemblyInfo.cs
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\obj\Debug\net10.0\refint\MayTinhDonGian.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.genruntimeconfig.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\MayTinhDonGian\obj\Debug\net10.0\ref\MayTinhDonGian.dll

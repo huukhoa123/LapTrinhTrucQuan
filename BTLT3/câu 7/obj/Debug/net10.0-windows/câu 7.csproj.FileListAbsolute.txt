@@ -1,0 +1,17 @@
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\bin\Debug\net10.0-windows\câu 7.exe
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\bin\Debug\net10.0-windows\câu 7.deps.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\bin\Debug\net10.0-windows\câu 7.runtimeconfig.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\bin\Debug\net10.0-windows\câu 7.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\bin\Debug\net10.0-windows\câu 7.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\obj\Debug\net10.0-windows\câu_7.Form1.resources
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\obj\Debug\net10.0-windows\câu_7.Properties.Resources.resources
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\obj\Debug\net10.0-windows\câu 7.csproj.GenerateResource.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\obj\Debug\net10.0-windows\câu 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\obj\Debug\net10.0-windows\câu 7.AssemblyInfoInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\obj\Debug\net10.0-windows\câu 7.AssemblyInfo.cs
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\obj\Debug\net10.0-windows\câu 7.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\obj\Debug\net10.0-windows\câu 7.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\obj\Debug\net10.0-windows\refint\câu 7.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\obj\Debug\net10.0-windows\câu 7.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\obj\Debug\net10.0-windows\câu 7.genruntimeconfig.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\câu 7\obj\Debug\net10.0-windows\ref\câu 7.dll

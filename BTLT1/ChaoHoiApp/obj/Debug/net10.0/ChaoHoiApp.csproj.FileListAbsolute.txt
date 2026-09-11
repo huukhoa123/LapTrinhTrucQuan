@@ -1,0 +1,14 @@
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\bin\Debug\net10.0\ChaoHoiApp.exe
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\bin\Debug\net10.0\ChaoHoiApp.deps.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\bin\Debug\net10.0\ChaoHoiApp.runtimeconfig.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\bin\Debug\net10.0\ChaoHoiApp.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\bin\Debug\net10.0\ChaoHoiApp.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.AssemblyInfoInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.AssemblyInfo.cs
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\obj\Debug\net10.0\refint\ChaoHoiApp.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\obj\Debug\net10.0\ChaoHoiApp.genruntimeconfig.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\ChaoHoiApp\obj\Debug\net10.0\ref\ChaoHoiApp.dll
