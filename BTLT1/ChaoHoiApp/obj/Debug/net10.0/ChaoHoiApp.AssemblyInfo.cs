@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChaoHoiApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1605d79f64a6e76fb1cbf1014809b805a8d0674")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChaoHoiApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChaoHoiApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
